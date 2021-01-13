@@ -10,7 +10,7 @@ Sample website with plenty of files for demos
 
 ## How To Contribute
 
-Contribute
+please fork
 
 ## New tab
 
